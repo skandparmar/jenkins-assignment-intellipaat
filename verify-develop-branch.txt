@@ -1,0 +1,2 @@
+This is push is made to “develop” a branch in Git, trigger job “test”. This will
+copy Git files to test node, If test job is successful, then prod job should be triggered, Prod jobs should copy files to prod node
